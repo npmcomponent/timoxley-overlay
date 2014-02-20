@@ -1,0 +1,10 @@
+{
+  "name": "timoxley-overlay",
+  "description": "Generate overlays over DOM elements.",
+  "version": "0.3.1",
+  "keywords": [],
+  "dependencies": {
+    "component-raf": "git://github.com/npmcomponent/component-raf.git"
+  },
+  "license": "MIT"
+}

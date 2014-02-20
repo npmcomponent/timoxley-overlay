@@ -1,6 +1,6 @@
 "use strict"
 
-var raf = require('raf')
+var raf = require('component-raf')
 
 var overlays = []
 
